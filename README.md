@@ -13,3 +13,7 @@ I recently worked on a fun little project that mimics the real-world shopping ca
 
 
 #ReactJS #WebDevelopment #Frontend #JavaScript #ReactProjects 
+
+```bash
+npx parcel 16.html
+```
